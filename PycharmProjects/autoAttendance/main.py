@@ -80,8 +80,8 @@ if __name__ == '__main__':
     try:
         print("Start")
 
-        go("yprite@gmail.com", "12qwaszx!@")
-        go("yprite@jjssm.org", "12qwaszx!@")
+        go("yprite@gmail.com", "")
+        go("yprite@jjssm.org", "")
 
         print("End")
     except Exception as E:
