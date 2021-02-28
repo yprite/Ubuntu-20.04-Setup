@@ -1,0 +1,17 @@
+udo apt update
+
+$ sudo apt install software-properties-common
+
+$ sudo add-apt-repository ppa:deadsnakes/ppa
+
+ 
+
+위와 같이 출력이 뜨면 ENTER를 눌러 진행해주세요!
+
+$ sudo apt install python3.7
+
+을 순서대로 진행해주시면 3.7 파이썬 설치가 완료됩니다.
+
+$ sudo apt-get install python3.7-venv
+
+을 통해 파이썬 3.7 가상환경을 만들 수 있게 해줍니다.
